@@ -1,7 +1,7 @@
 <h1 align="left"> Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">, I'm Henrique Pereira.</h1>
 
 
-- 🔥 I’m currently learning HTML, CSS, JAVASCRIPT, NODE, C#, .NET, SQL. 
+- 🔥 I’m currently learning C#, .NET, SQL. 
 
 ## 🛠 &nbsp;Tech Stack
 
